@@ -2,7 +2,7 @@
 Kongming Cao 661850357
 Hongyang Lin 661613896
 
-To start the game, use "Field" in the scene directory, and press each number key to start each part. 
+To start the game, use "Field" in the scene directory, and press each number key (1, 2, or 3) to start each part. 
 
 1. 
 separation weight = 10;

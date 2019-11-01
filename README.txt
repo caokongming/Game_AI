@@ -2,6 +2,8 @@
 Kongming Cao 661850357
 Hongyang Lin 661613896
 
+To start the game, use "Field" in the scene directory, and press each number key to start each part. 
+
 1. 
 separation weight = 10;
 cohesion weight = 1;
